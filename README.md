@@ -1,7 +1,5 @@
 # 《控制：共振》简体中文翻译优化
 
-> 非官方简体中文文本优化，基于 inkdesign 的 [原 mod（CN Fix 16 v0.7）](https://www.nexusmods.com/controlresonant/mods/16) 二次修订。
-
 ## 简介
 
 本项目的本体是 `base-zhcn.rmdtoc` 与 `base-zhcn-001.rmdblob`。在原作者 CN Fix 16 v0.7 的基础上，对范围内全部 **19,449 条**简中文本逐条对照英文复核，合并 **488 处**修正，覆盖任务、对白、档案、物品、界面、教程与协议文本。
